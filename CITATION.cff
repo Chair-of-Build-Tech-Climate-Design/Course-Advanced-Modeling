@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Advanced Modeling Course"
+message: "If you use any resource from this module, please cite it using the metadata below."
+authors:
+  - family-names: "Gottkehaskamp"
+    given-names: "Ben Gottfried"
+    orcid: "https://orcid.org/0000-0001-5694-6055"
+  - family-names: "Hepf"
+    given-names: "Christian"
+    orcid: "https://orcid.org/0000-0003-2225-192X"
+version: 1.0.0
+date-released: 2026-05-13
+url: "https://github.com/Chair-of-Build-Tech-Climate-Design/Course-Advanced-Modeling"
+license: MIT
