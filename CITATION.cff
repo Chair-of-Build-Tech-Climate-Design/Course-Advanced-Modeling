@@ -12,3 +12,14 @@ version: 1.0.0
 date-released: 2026-05-13
 url: "https://github.com/Chair-of-Build-Tech-Climate-Design/Course-Advanced-Modeling"
 license: MIT
+abstract: "Course materials and scripts for the Advanced Modeling Course."
+preferred-citation:
+  type: manual
+  title: "Advanced Modeling Course - Course Materials and Scripts"
+  authors:
+  - family-names: "Gottkehaskamp"
+    given-names: "Ben Gottfried"
+  - family-names: "Hepf"
+    given-names: "Christian"
+  year: 2026
+  url: "https://github.com/Chair-of-Build-Tech-Climate-Design/Course-Advanced-Modeling"
